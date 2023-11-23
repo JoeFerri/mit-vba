@@ -1,10 +1,5 @@
 ## Script in VBA (Visual Basic for Applications) for inserting alternate blank rows into an Excel worksheet.
 
-**Table of Contents**
-
-[TOCM]
-
-------------
 ### Example FILE
 
 The *MACRO_RVA_EXAMPLE.xlsm* file consists of 4 sheets:
